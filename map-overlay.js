@@ -1,5 +1,5 @@
 (function () {
-  var IMAGE_URL = "fillerurl";
+  var IMAGE_URL = "https://raw.githubusercontent.com/blanecincpro-star/site-scripts/refs/heads/main/office%20map.png";
 
   function isTypingInField() {
     var el = document.activeElement;
