@@ -13,20 +13,20 @@
       z-index: 999999;
     }
 
-    #custom-image-popup {
-      position: relative;
-      background: white;
-      padding: 20px;
-      border-radius: 12px;
-      max-width: 90vw;
-      max-height: 90vh;
-    }
+#custom-image-popup {
+  position: relative;
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  max-width: 95vw;
+  max-height: 95vh;
+}
 
-    #custom-image-popup img {
-      max-width: 80vw;
-      max-height: 80vh;
-      display: block;
-    }
+#custom-image-popup img {
+  max-width: 90vw;
+  max-height: 90vh;
+  display: block;
+}
 
     #custom-image-close {
       position: absolute;
