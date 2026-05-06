@@ -73,7 +73,7 @@
     overlay.innerHTML = `
       <div id="custom-image-popup">
         <button id="custom-image-close" type="button">X</button>
-        <img src="https://cdn.jsdelivr.net/gh/blanecincpro-star/site-scripts@main/map%20of%20gotham.png?v=1>
+        <img src="https://cdn.jsdelivr.net/gh/blanecincpro-star/site-scripts@main/map%20of%20gotham.png?v=2">
       </div>
     `;
 
